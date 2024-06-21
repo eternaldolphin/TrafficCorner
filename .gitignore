@@ -33,3 +33,11 @@ ckpts*
 
 # Demo
 serve_images/
+playground/*
+openai/*
+dataset/*
+output/*
+roi_clip/*
+confusion.pdf
+generate_vqa_gpt4v.py
+get_html.py
